@@ -1,0 +1,16 @@
+div{
+    width:500px;
+    height:500px;
+    background:#abcdef;
+    border:1px solid #000;
+    border-radius:50%;
+    position:absolute;
+    left:calc(50% - 250px);
+    top:calc(50% - 250px);
+}
+div span{
+    position:absolute;
+    left:calc(50% - 55px);
+    top:calc(50% - 10px);
+    color:#008c8c;
+}
